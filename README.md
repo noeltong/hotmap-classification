@@ -1,10 +1,10 @@
 # Hotmap Classification
 
-This repository is a PyTorch implementation of Hotmap classification.
+This repository is a PyTorch implementation of hotmap classification.
 
 ## Preliminaries
 
-An Anaconda environment is needed. We firstly create a virtual env by
+An Anaconda environment is needed. We first create a virtual env by
 ```
 conda create -n cls python=3.9 --yes
 ```
